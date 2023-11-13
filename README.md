@@ -4,4 +4,11 @@ This is the test server for the Distributed Load Testing Project.
 
 ## Build
 
-TODO
+Once you have the golang toolchain installed, building and running this server
+is pretty simple.
+
+```
+$ go run main.go
+```
+
+once you do this, you can access the server at `localhost:8080`
